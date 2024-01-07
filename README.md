@@ -27,8 +27,8 @@
 ## Mi Proyectos ✨ :
 
 <br>
-<a href="https://github.com/Davekibh/Background-generator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Background-generator&theme=tokyonight" />
+<a href="https://github.com/SinthiaGonzalez/Serena-Hotel-">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SinthiaGonzalez&repo=Serena-Hotel-&theme=tokyonight" />
 </a>
 
 <br>
@@ -37,7 +37,7 @@
 
 <br>
 
-[![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/linkedin.png "@anushkawijegoonawardana97")](https://www.linkedin.com/in/sinthia-fabiana-gonzalez/) [![@anushkaduwolka123@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@anushkaduwolka123@gmail.com")](anushkaduwolka123@gmail.com)
+[![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/linkedin.png "@anushkawijegoonawardana97")](https://www.linkedin.com/in/sinthia-fabiana-gonzalez/) [![@sinthiafgonzalez@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@sinthiafgonzalez@gmail.com")](mailto:sinthiafgonzalez@gmail.com)
 
 
 
