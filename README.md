@@ -31,6 +31,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SinthiaGonzalez&repo=Serena-Hotel-&theme=tokyonight" />
 </a>
 
+<a href="https://github.com/SinthiaGonzalez/challenge-Alura/tree/main">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SinthiaGonzalez&repo=challenge-Alura&theme=tokyonight" />
 <br>
 
 ## Contactate conmigo ☕ :
