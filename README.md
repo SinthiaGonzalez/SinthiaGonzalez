@@ -1,5 +1,5 @@
 
-<h1 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">,soy Sinthia gonzalez</h1>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rubik+Doodle+Shadow&size=40&pause=1000&color=F7B1E3&center=true&random=false&width=620&height=90&lines=Hola+soy+Sinthia+gonzalez+" alt="Typing SVG" /></a>
 
 [<img src="https://github.com/SophieNguyen113/SophieNguyen113/blob/main/Sophie%20Nguyen%20-%20CatCat.gif" title="CatCat" alt="CatCat">](https://github.com/SinthiaGonzalez)
 
