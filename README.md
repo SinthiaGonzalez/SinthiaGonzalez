@@ -5,6 +5,7 @@
 
 ## Sobre mi :
 
+- 🌱: actualmente me encuntro creando mi portfolio con react. 
 - 🏢 I am currently working as a **Senior Software Engineer** at [HCL Technologies Lanka](https://hclsrilanka.com/contact-us/)
 - 🏢 Former **Software Engineer** at [iLabs](https://www.ilabs.lk/)
 - 🎓 Studies for Software Engineering at [London Metropolitan University](https://www.londonmet.ac.uk/)
