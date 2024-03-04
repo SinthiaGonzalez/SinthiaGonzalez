@@ -11,7 +11,7 @@
 - 👨‍💻  Actualmente estoy trabajando en tecnologías de desarrollo web como JavaScript, React, etc.
 - 📚 Actualmente estoy aprendiendo todo sobre tecnologías Frontend y Backend 😅
 - 💪🏼  Metas futuras: aprender más tecnologías: nunca dejar de crear nuevas ideas.
-- 🤔 Actualmente estoy abierto para: Un pasante o una nueva oportunidad laboral ,[my resume](file:///C:/Users/gutie/Downloads/SinthiaGonzalezResume%20(1).pdf).
+- 🤔 Actualmente estoy abierto para: Un pasante o una nueva oportunidad laboral ,[my resume](https://drive.google.com/file/d/1bPAgmH1UMoJyfatFvPlyQJVbe2zMes-T/view).
 <br>
 
 <hr>
